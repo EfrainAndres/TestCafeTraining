@@ -5,7 +5,6 @@ var postTitle;
 fixture`Unosquare Blog`
     .page`https://www.unosquare.com/blog/`
     .beforeEach(async t => {
-        await t.maximizeWindow();
         postTitle = 'What is JavaScript Used for?';
     });
 

@@ -1,11 +1,19 @@
 {
     "src": "./Tests/Unosquare/",
-    "browsers": ["chrome","edge"],
-    "output": "reports/report.xml",
+    "browsers": [
+        "lambdatest:Chrome@108.0:Windows 11"
+    ],
+    "reporter": [
+        "spec",
+        {
+            "name": "xunit",
+            "output": "report.xml"
+        }
+    ],
     "screenshots": {
         "takeOnFails": true
     },
-    "debugOnFail": true,
+    "debugOnFail": false,
     "selectorTimeout": 3000,
     "assertionTimeout": 2000,
     "pageLoadTimeout": 1000,
