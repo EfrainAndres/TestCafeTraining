@@ -1,0 +1,19 @@
+{
+    "name": "testcafe_training",
+    "version": "1.0.0",
+    "description": "This is training",
+    "main": "TestCafeTrain.js",
+    "scripts": {
+      "test": "testcafe"
+    },
+    "keywords": [
+      "TestCafe",
+      "Automation",
+      "Testing"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "testcafe": "^1.7.1"
+    }
+  }
