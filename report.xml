@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite name="TestCafe Tests: Chrome 108.0.0.0 / Windows 10 ( https://automation.lambdatest.com/logs/?sessionID=6663a0a38d94747606c05e036ee40644 )" tests="2" failures="0" skipped="0" errors="0" time="20.254" timestamp="Thu, 09 Feb 2023 23:06:29 GMT" >
-  <testcase classname="Unosquare Blog" file="C:\Users\efrain.vergara.UNOSQUARE\OneDrive - Unosquare\Documents\Curso TestCafe\TestCafeFramework\Tests\Unosquare\BlogTests.js" name="Validate First Post and Read More" time="12.459">
-  </testcase>
-  <testcase classname="Unosquare ContactUs" file="C:\Users\efrain.vergara.UNOSQUARE\OneDrive - Unosquare\Documents\Curso TestCafe\TestCafeFramework\Tests\Unosquare\ContactTests.js" name="Validate error messages" time="6.605">
+<testsuite name="TestCafe Tests: Chrome 109.0.0.0 / Windows 11" tests="1" failures="0" skipped="0" errors="0" time="41.092" timestamp="Fri, 10 Feb 2023 19:53:37 GMT" >
+  <testcase classname="Microsoft Shopping" file="C:\Users\efrain.vergara.UNOSQUARE\OneDrive - Unosquare\Documents\Curso TestCafe\TestCafeFramework\Tests\Microsoft\MicrosoftTests.js" name="Search for Microsoft Modern Wireless" time="40.189">
   </testcase>
 </testsuite>
