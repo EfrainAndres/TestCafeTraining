@@ -1,7 +1,7 @@
 {
     "src": "./Tests/Unosquare/",
     "browsers": [
-        "lambdatest:Chrome@108.0:Windows 11"
+        "chrome"
     ],
     "reporter": [
         "spec",
