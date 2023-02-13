@@ -1,7 +1,7 @@
 {
     "src": "./Tests/Microsoft/",
     "browsers": [
-        "chrome"
+        "chrome:headless"
     ],
     "skipJsErrors": true,
     "reporter": [
